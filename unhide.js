@@ -1,3 +1,3 @@
 for (ingredient in ingredients) {
-    ingredients[ingredient].hidden = false;
+    ingredients[ingredient].hidden = true;
 }
